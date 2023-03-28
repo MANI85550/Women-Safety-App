@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201817465420",
+    "project_id": "empoweredwomen-b8dc9",
+    "storage_bucket": "empoweredwomen-b8dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201817465420:android:e2028a5320f1921a4c8ae9",
+        "android_client_info": {
+          "package_name": "com.example.empowered_women"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201817465420-5frsemosat95kl07ghnd8imkqb9v755g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pcSMx6cDRaRPgrwNOtsFNhcSM4bVva8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201817465420-5frsemosat95kl07ghnd8imkqb9v755g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
